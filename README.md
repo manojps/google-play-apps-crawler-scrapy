@@ -4,9 +4,9 @@ The aim of this project was to build a database of all apps in Google Play. The 
 
 The data points collected are as follows.
 
-app_id: App’s ID on Google Play
-item_name: Display name of app
-updated: Date of last update
+app_id: App’s ID on Google Play \n
+item_name: Display name of app \n
+updated: Date of last update \n
 author: Name of publisher
 filesize: File size of app
 downloads: Download numbers for app
