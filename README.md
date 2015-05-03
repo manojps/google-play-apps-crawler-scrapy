@@ -1,6 +1,6 @@
 # Google Play Crawler Using Scrapy; 1.1M+ Apps Crawled
 
-The aim of this project was to build a database of all apps in Google Play. The project was tested on Google Play U.S. So far, I've crawled **1,118,620 apps on Google Play (U.S. app store)**.
+The aim of this project was to build a database of all apps in Google Play. The project was tested on Google Play U.S. So far, I've **crawled 1,118,620 apps on Google Play (U.S. app store)**.
 
 The data points collected are as follows.
 
