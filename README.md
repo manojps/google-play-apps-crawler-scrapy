@@ -4,25 +4,44 @@ The aim of this project was to build a database of all apps in Google Play. The 
 
 The data points collected are as follows.
 
-app_id: App’s ID on Google Play \n
-item_name: Display name of app \n
-updated: Date of last update \n
+app_id: App’s ID on Google Play 
+
+item_name: Display name of app
+
+updated: Date of last update
+
 author: Name of publisher
+
 filesize: File size of app
+
 downloads: Download numbers for app
+
 version: Version number of app
+
 compatibility: Android version compatibility of app
+
 content_rating: Maturity rating of content
+
 author_link: Publisher website link and/or email address
+
 genre: Category under which app is published
+
 price: Price of app
+
 rating_value: User rating value
+
 review_number : Number of user reviews
+
 description: App description
+
 iap: In-app purchase available or not
+
 developer_badge: Google Developer badge (if any)
+
 physical_address: Contact information of publisher
+
 video_url: Video preview URL
+
 developer_id: Publisher portfolio link in Google Play
 
 You can find more about the dataset at http://alo.ventures/google-play-apps-data-and-reviews-dataset/
